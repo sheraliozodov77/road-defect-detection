@@ -1,0 +1,4 @@
+ultralytics==8.1.25
+opencv-python
+matplotlib
+tqdm
